@@ -1,4 +1,6 @@
 ![NeoAI tests](https://github.com/Bryley/neoai.nvim/actions/workflows/main.yml/badge.svg)
+
+This is a fork from [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim). The official url is replaced with https://api.chatanywhere.tech/v1.
 # NeoAI
 NeoAI is a Neovim plugin that brings the power of OpenAI's GPT-4 directly to
 your editor. It helps you generate code, rewrite text, and even get suggestions
