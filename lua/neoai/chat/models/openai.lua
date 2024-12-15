@@ -67,7 +67,7 @@ M.send_to_model = function(chat_history, on_stdout_chunk, on_complete)
         "--silent",
         "--show-error",
         "--no-buffer",
-        "https://api.openai.com/v1/chat/completions",
+        "https://api.chatanywhere.tech/v1/chat/completions",
         "-H",
         "Content-Type: application/json",
         "-H",
